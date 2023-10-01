@@ -1,0 +1,32 @@
+h1 {color:crimson
+}
+
+body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 
+{color: aqua
+}
+
+nav {color:darkorchid
+}
+
+.box {
+    display:flex;
+    }
+
+.1 {
+    
+    background-color:blue;}   
+
+.2 {
+        
+        border: 10px solid blue;}   
+
+.container {
+    
+    border: 10px solid purple
+    height: 100vh;}
+
+img { 
+margin-right:20px;}
