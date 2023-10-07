@@ -32,14 +32,21 @@ nav {color:darkorchid
 img { 
 margin-right:20px;}
 
-.social {
+aside {
     
         max-width: 900px;
-        margin: 0 auto
-        
-        
+        margin: 0 auto;
+        display: flex;
+            
     }
 
 .stack {
     display: flex;
+}
+
+.social {
+    
+    max-width: 900px;
+    margin: 0 auto
+        
 }
